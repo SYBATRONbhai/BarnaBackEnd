@@ -1,0 +1,19 @@
+{
+  "name": "backend-dmt-barnamoy",
+  "version": "1.0.0",
+  "description": "First Application of Barnamoy to make production grade Services.",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js"
+  },
+  "keywords": [
+    "node",
+    "barnamoy"
+  ],
+  "author": "Barnamoy Dhar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
